@@ -1,0 +1,1 @@
+This folder is used for me to use Xamarin to design and develop some mobile applications.
